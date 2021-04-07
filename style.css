@@ -1,15 +1,17 @@
 #menu
 {
 	position:fixed;
-	width: 100%;
+	width: 60%;
 	height: 35px;
 	background:cadetblue;
-	right: 85%;
+	right: 25%;
     left: 15%;
 	
 	
 	
 }
+
+
 .body .div.a{
 	display: inline-block;
 	position: relative;
@@ -21,7 +23,7 @@
 }
 
 ul {
-	padding: 50;
+	padding: 0;
 	list-style: square;
 	background:lemonchiffon;
 }
@@ -84,3 +86,23 @@ body{
 table{
 	background-color: rgb(253, 244, 230);
 }
+#post-area
+{
+font-size:13px;
+color:#000;
+text-align:left;
+width:450px;
+height:auto;
+font-family:Meera;
+clear:both;
+margin-top:20px;
+letter-spacing:normal;
+    }
+    #post-area img
+    {
+max-width:250px;
+height:auto;
+float:none;
+margin:0 auto;
+
+   }
